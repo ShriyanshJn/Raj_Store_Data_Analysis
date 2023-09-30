@@ -6,7 +6,7 @@ The Raj Store wants to create an annual sales report for 2022. So that, the owne
 
 ## **Dataset used**
 
-
+[Raj Store Data](https://github.com/ShriyanshJn/Raj_Store_Data_Analysis/blob/main/Raj%20Store%20Data.xlsx)
 
 ## **Questions (KPIs)**
 
